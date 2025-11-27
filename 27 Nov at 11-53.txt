@@ -1,0 +1,404 @@
+
+Symbol ja und wir schauen mal ob man den richtigen irgendwie auf die Konsole zeichnen können.
+
+Alternativ was noch ein Programm hätte werden. Listen könnte man auch machen. Eine einfache Liste aber ist natürlich ein bisschen um ein bisschen aufwändig erhalten. Pixel erstmal gar nicht ja? Direkt drauf?
+
+Plus und dann übertipp das muss dann so eins, dann kannst du erst tatsächlich schreiben. Genau, ich bin einfach normales hello world nehmen!
+
+Genau, ich würde sagen wir machen sogar gleich so dass wir den Aufbau machen für den ganzen richtigen Programm dann auch machen würden. Ja das sind alles in einer Datei drin ist sind gut, man das einfach auch gleich noch nicht, das kann ich diesen Hexenwerk ja? Ähm? Das heißt? Sie machen einfach eine neue räderdatei.
+
+Das haben wir ja schon ein paar mal gemacht, auch in den Clips. Und nennen die jetzt zum Beispiel. Ja Pixel Punkt a.
+
+Und in unserer main? Also in unserer Datei wo auch die main-funktion drin ist, dann müssen wir jetzt natürlich noch das machen wir gleich.
+
+Die Pixel h-datei einbinden. Okay? Hier nur wichtig mit hochkommadar. Weil wir einfach der nach der Datei suchen, den gleichen Ordner liegt.
+
+Sollten alle zwei Farben? Ja dann machen wir uns jetzt gleich mal einen kleinen Struktur, ja?
+
+Und zwar?
+
+Nämlich hier mal Kekse. Ja, man kann sich jetzt immer überlegen wie man es macht, ja? Generell ist es jetzt so im C. Kann man diese Strukturen klein oder groß schreiben? Das ist jetzt nicht unbedingt die. Wir haben immer hier die 100%ige Vorgabe ja? Wenn wir nicht nächstes Semester C++ programmieren und eigene Klassen schreiben, also eine Klasse bedeutet so ist es sowas wie eine Struktur.
+
+Also auch so mit so eigenen attributen nennen wir das jetzt mal ja? Aber noch eine ganze Funktion. Die dazugehören ist alles in einem datenpaket sozusagen drin. Ja also ein bisschen mehr weitere Geschichte und so. Da schreibt man die Sachen eben groß. Deshalb würde ich jetzt hier auch einfach mal so machen.
+
+Erste Buchstaben groß und Weil es jetzt schon ein bisschen auf dieses Objekt orientierte programmieren abziehen ja? Ja dann haben wir unsere Strukturen. Jetzt müssen wir uns überlegen was braucht die Struktur? Wie würde sagen wir machen jetzt hier einfach mal ein Index, ein strukturelement x ein strukturelementen y das sind dann nachher die Koordinaten wo man den Pixel flotten holen, ja?
+
+Und dann machen wir noch einen Chart C rein. Das Zeichen, dass man an der Stelle ausgeben wollen, okay? Ähm? Ich würde es jetzt erstmal dabei belassen, ja? Theoretisch könnte man jetzt dann noch beliebig weitermachen. Ja, wenn wir jetzt sagen, wir machen zum Beispiel einen Pixel auf der Konsole, dann könnten wir auch noch entscheiden.
+
+Was haben wir für eine Schriftfarbe? Also die vordergrundfarbe und das haben wir. Für die hintergrundfarbe könnten wir auch noch festlegen, okay? Das wäre ja auch kein Problem, da hätten wir alles beschrieben. Position Symbol, Fahrer der Schrift und Farbe vom Hintergrund. Dann hätten wir eigentlich alles was mit diesem fixen so auszeichnet, okay?
+
+Ich würde es jetzt erstmal da einfach halt halber bei diesen drei Sachen hier belassen. Ja liegt auch ein bisschen daran, dass die Farben Das ist ein bisschen längerer Text. Um das einzulegen zeige ich Ihnen dann auch gleich wie das geht ja, aber das ist noch mal ein bisschen eine andere Geschichte.
+
+Jetzt kommen wir erstmal die Basics mit den drei Sachen und dann können wir uns das immer noch offen halten ob man das einpflegen und dann ja. Das was wir bleiben, erstmal super diesen Pixel und Haben den da? Dann würde ich danach noch weil wir wollen uns das Leben einfacher machen.
+
+Heute? Pixel achten Sie auf die groß! Kleinschreibung Und sozusagen nachdem das hier eingebunden wurde, können wir jetzt einfach beliebig Pixel erzeugen, ja? Und zwar ohne, dass wir jedes Mal noch das Doktor vorschreiben.
+
+Nachdem wir den Programmcode hier oben ja in der Mailbox eingebunden haben, ja Können wir den hier gleich direkt verwenden, okay? Das heißt wir machen das jetzt einfach mal einfach nur mal ganz exemplarisch Pixel B kann ich jetzt zum Beispiel einfach so schreiben. Ja und dann hätte ich jetzt einfach schon Pixel auf uns auf dem auf dem Stack erzeugt.
+
+Okay? Wenn ich den Pixel jetzt hier so erzeugt habe, der ist ja auch ein Steak also kann ich jetzt mit dem Punkt auf die einzelnen strukturelemente? Ähm von dieser Struktur zugreifen ja? Und sie sehen solle, sind wir Eclipse genau für uns entscheidend. Dann werden Ihnen automatisch die strukturelemente, die diese Struktur Pixel anbietet, angeboten.
+
+Okay?
+
+Und ich fange hier auch ganz normal beschreiben.
+
+Achten Sie auch bei C ist ja vom bafögar also müssen wir das ein einfacher Hochformat
+
+Gut jetzt kann man sich überlegen was macht jetzt Sinn? Wie kann ich denn Pixel auf der auf der Konsole ausgeben?
+
+Und?
+
+Sexuell machen? X ist gleich. Als Platzhalter? Ein paar Leerzeichen rein.
+
+Eine 2D? Das heißt nur über zwei Felder belegen. Dann haben wir keine eindrückungen. Weil die very. Und dann noch das Zeichen. Platzhalter? Und im zweiten hoch. Hinten dran müssen wir uns jetzt die einzelnen Variablen reinholen. Das heißt das erste wäre dann hier in unserem Fall die x Y und e?
+
+Schaffst du sie? Wenn man einfach mal laufen lassen.
+
+Wichtig ist beide Dateien in Deutschland speichern.
+
+Ganz normal die Ausgabe, also das funktioniert. Also ganz gut, aber das alles soweit.
+
+Warum bindet man pixelig an?
+
+Noch mal kurz fragen?
+
+Ich versuche. Wir haben keine enden bei uns übertragen mit erfahrungswerten bringen und
+
+Dieselbe unter?
+
+Die Einstellung vom Projekt ist jetzt die preisklang, dann müssen leeres Projekt normalerweise machen.
+
+Sind derzeiten irgendwo drin? Normalerweise passiert es höchstens ganz gerne, wenn man. Leerzeichen machen können. Bei ihnen geht es?
+
+Da hatte ich damit viel mit abrufen. Okay und plötzlich hat sich dann nicht mehr anders gesehen. Release gemacht und hier ist alles auf. Die Bank festgelegt oder sie machen noch eine run Konfiguration?
+
+Windausgabe auf der Konsole funktioniert ja schon mal ganz brauchbar. Okay? Jetzt kann man sich halt immer überlegen.
+
+Will ich das jedes Mal immer so aufrufen? Und bei diesen objektorientierten Geschichten ist normalerweise immer ganz cool, weil man für seine eigenen Daten drücken. Ja halt immer schon eigene Funktionen. Schon bereitstellt die das dann auch zum Beispiel eine eigene printausgabe auf der Konsole. Das heißt das was wir jetzt hier so mühselig reingeheckert haben dann anfangsstichen.
+
+Auch wenn es nur eine Zeile ist, der natürlich schön wenn ich einfach so eine Art. Ja auch drin machen könnte und dann gebe ich dann Pixel rein und dann ist auch gut oder da eine ausgabefunktion einfach. Ja das machen wir jetzt einfach mal wenn wir einfach schon ein bisschen sehen wie der Umgang damit ist.
+
+Ja die Zeile hier können Sie schon mal kopieren. Und dann gehen wir mal zurück in unsere.
+
+Pixel?
+
+Anders score und dann zum Beispiel. Ausgeartet! Das ist praktisch also so für die Funktion. Dann heißen die Funktion selber machen auf den Garten getreu die braucht keinen Rücklauf der Typ unbedingt. Und machen so dass unsere Funktion hier einfach. Ein Pixel erwartet. Okay?
+
+Viel speichern es ab, also ich denke die ist gar nett, dass ich jetzt einfach direkt so eine Funktion habe, die verwenden kann, wenn ich mich bei diesem ganz langen Text hier schreiben musst. Wir gehen mal die main-funktion rein. Lösch die Zeile hier raus? Und jetzt kann ich da einfach die Funktion verwenden.
+
+Das heißt ich habe einfach. Hier die Funktion, heißt der Pixel Ausgabe. Und alles, was sie erwartet. Bisschen Pixel den habe ich ja hier oben schon erzeugt bei uns weg.
+
+Die ruft jetzt praktisch hier hinten hinter jetzt die Funktion die wir gerade geschrieben haben und das ist ja eigentlich dann am Ende des Tages für die kind-ausgabe.
+
+Funktioniert tipptopp ja und ich muss dabei jetzt halt nicht mehr nicht mehr. Viel schreiben, sondern ich kann einfach einen pixelausgabe des machen. Okay? Und? Jetzt kann man sich vorstellen. Ich könnte zum Beispiel auch eine Funktion schreiben Pixel zeichne und zeichne wir dann vielleicht wirklich auf der Konsole an der entsprechenden Koordinate.
+
+Dann den Stern auszugeben. Okay, ja auch eigentlich ganz cool, dann bin ich ja schon ziemlich nahenden zeichenprogramm dran. Und? Das müsste ich eigentlich noch in nudelkurs online haben.
+
+Und zwar können wir hier den Teil hier verwenden? Konsole an sie Kommandos Wir können es jetzt für jetzt auch einfach reinklippen, aber nur, dass sie wissen, wo es ist Und? Da sind praktisch Beispiele schon drin die wir farbig auf die Konsole schreiben können und wie das Ganze funktioniert.
+
+Und?
+
+Ich nehme jetzt mal die Funktion hier einfach mal raus. Hier gegenüber. Sie können Sie dann abtippen von mir aus dem Röhrchen Studio oder so kopieren Sie selber einfach.
+
+Die packe ich jetzt hier praktisch abstrahiert noch jetzt rein in den kistelausgabe Und ich nenne hier einfach Pixel.
+
+Zeichnen? Und wir machen es so, dass du hier einfach direkt den Pixel hier übergebe.
+
+Genau so! Jetzt müssen wir natürlich immer wissen wie sehen diese einzelnen ansie-kommandos aus? Okay? Merkt man die sich auswendig nicht unbedingt ja also wenn es natürlich technisch froh ist und ich anfangen hier rumzuschreiben und merke ich mir die auswendig und dann merke ich mir vielleicht auch die Farben auswendig aber ganz ehrlich Sehe ich keinen Notwendigkeit mehr, das schreibe ich mir einmal zusammen, dann habe ich das zur Auswahl und im Prinzip ist dieses.
+
+Dieser Text, den wir ausgeben, das ist eher hier Das hier kommt weg.
+
+Und auf das entfernen. Am Ende des Tages ist es so wenn wir Text an die oder? Ja, wenn wir Text an die Konsole schicken, wird erstmal geschaut. Was ist das überhaupt? Ja? Und hier ist es so mit dem Backslash ist ja ein escape Zeichen. Ja das heißt da kommt jetzt irgendwas und Befehl irgendwas was jetzt nicht direkt flexuell auszuwerten ist ja Und dann hat man hier das Rad mit der 33 und dann ist es halt festgelegtes Format.
+
+Ja, man sieht schon so ein bisschen wie beim koordinatensystem. Sind etliche Klammer auf? Dann kommen die eine Variable der y-variable ja? X-variable und hinten dran kommt das Zeichen was man auch ausgeben will. Also es praktisch einfach So ist der Aufbau okay, also das ist der Text, den ich eigentlich auf die Konsole geben wird, wenn ich haben möchte, dass der Cursor an der bestimmte Stelle springt und dann dort einfach das Symbol C zeichnen.
+
+Okay?
+
+Das heißt hier vorne den ersten Platzhalter muss alles y rein. Den zweiten Platzhalter muss das x sein. Und in den letzten muss es ja haben und die Infos hole ich mir jetzt einfach direkt aus der Struktur ja also diese y-koordinate x-koordinate und das Zeichen und mir direkt aus der Struktur!
+
+Und? Ja, dann wird das ganze direkt auf der Konsole an der Stelle ausgegeben.
+
+Haben uns alles soweit.
+
+Ja und dann? Schauen wir mal rein. Mail-funktion Pixel Ausgabe haben wir gemacht. Dann mache ich jetzt noch Pixel. Zeichnen? Und übergeb den Pixel P einfach auf und der hat er jetzt genau diese drei Informationen yx und C die lesen heraus und gucken mal, ob wir den jetzt glücklich an dieser Stelle plottert.
+
+Ja oder nein?
+
+So und wir sehen? Da hat sich hier bei mir ein Stern reingemogelt. Sie sehen das. Und der ist praktisch genau hier an der Position. 10. 5.
+
+Also zehn stellen nach rechts und fünf nach unten. Das sieht hier nur ein bisschen Konzert aus.
+
+Was denn der verschiebt noch den Pixel nicht? Guck gerade Also, wie gesagt Das müssen Sie nicht auswendig lernen. Ja das verlange ich nicht aber funktionieren natürlich irgendwas zeichnen auch. Das wird auch mit vorkommen. Halt brauchen wir ja fürs Bomben auf. Im Prinzip gibt es dann so eine Funktion Pixel zeichnen schon vorgegeben und sie müssen halt dann nur die Struktur halt reinpacken die Farbe setzen und so und halt sich zum Beispiel überlegen was brauche ich um und Viereck zu machen und es geht natürlich dann relativ einfach, weil überlegen Sie mal, dass Viereck was wir bis jetzt ausgegeben haben auf der Konsole.
+
+Das war ja immer schon ein bisschen schwieriger. Ja, weil wir ja immer damit leben mussten. Praktisch, dass der Körper bei einer Ausgabe von einem Zeichen nur eine Stelle an irgendeine andere gesprungen ist. Ja, das heißt perfekt. Ja, dadurch bin ich ja schon in meiner in meiner Ausführung eingeschränkt. Wenn ich so eine Funktion habe, dann kann ich die einzelnen Pixeln.
+
+Ich bin nicht mehr Reihenfolge. Und ich kann das einfach direkt reinpacken und habe viel mehr freiheitsgrade mit der Nummer. Wenn ich da jetzt noch die Farbe einfüge, dann habe ich ein zeichenprogramm für die Konsole. Das ist super easy okay und dann haben wir eigentlich alles da. Das einzige was man sich halt noch Fragen muss ist natürlich wenn wir das machen.
+
+Dann muss ich zum Beispiel über die Farbe neu setzen. Also die Farbe setzen ist auch so ein Befehl ungefähr wie der der hier ist ja und das bedeutet ich muss natürlich immer Text zur Konsole schicken und so weiter und da muss man sich halt auch überlegen später wenn wir was machen oder eine Animation machen die kann ich die geschickt machen.
+
+Ja also wenn man jetzt zum Beispiel sich ein Video anschaut. Dann ist es auch eine so. Da kommt dann alle jede Sekunde einmal das komplette Bild und ansonsten wird nur die Differenz wird verändert. Ja wenn ich jetzt fußball habe ja um alles stehende zu da einer schießt ein Ball durch und sind passiert da nichts.
+
+Dann werden nur die Pixel für den Ball. Das was ich ändert wird gemacht. Aber die die Werbebanner oder was am Rand. Das wird gar nicht übertragen weil da ist ja keine Änderung passiert. Okay? Also das spart man sich einfach Daten. Hier machen wir das dann später auch so, weil wenn ich mir irgendwie ein Spielfeld haben irgendwie so 50 mal 30 Felder und ich fange an überall alles so komplett neu zu zeichnen.
+
+Dann wird das Ding flackern. Dann sieht es nicht schön aus. Ja und hier werden wir halt einfach hergehen und sagen. Okay ich zeichne was und das was er wegfällt nämlich weg und das was dazu kommt mache ich dazu. Aber ich mache nicht das komplette Bild leer und zeichnet dann neu.
+
+Das ist immer oft zu aufwendig. Ja genau. Stelle ausgegeben. Ja das ist Problem weil Der das Capt schon von Eclipse. Die asgebots nicht kann also wenn ich jetzt eine normale Konsole starte. Also ich habe auch Probleme mit der normalen Konsole. Ja.
+
+Mir?
+
+Das sollte ja hier auf. Fünf sein, das ist noch. Leider zuerst y und dann x ja das okay. Dankeschön Genau das ist einfach das gecatcher, der von der von der Clips das kann.
+
+Okay?
+
+Ist es natürlich. Wir bauen ja eigentlich für den print F eigentlich ja nur einen Text zusammen, der dann genau diesen Befehl entspricht. Die an die Position an die Position und dann das Zeichen? Okay, das ist ja das was man eigentlich machen. Also formatieren uns einen String. Theoretisch könnte man das auch hart codiert reinmachen, also wenn ich einfach hart codiert wechsledge 33 und dann macht die Klammer und dann schreibe ich irgendwie 1010 oder so rein.
+
+Kann ich auch machen, aber es muss ja reflexibler. Okay?
+
+Okay passt bei allen soweit ja
+
+Sollte einmal dieses Ding rausgegeben hast.
+
+Aber sobald ich das hier Weg mache.
+
+Dass ich dann halt nur noch zusammen lernen könnte, dass er hintersetzen jetzt ist es passt.
+
+Selbst der Schulter ist, hätte ich immer gesagt, das verschuldet. Nicht die die externe Konsole verwenden lässt.
+
+Was man sich nur ganz kurz eine Anmerkung noch was man sich vor Augen halten muss, ist die zwei Funktionen, die man jetzt da geschrieben haben. Wir erwarten, dass ein Pixel übergeben wird. Okay, alles war erstmal einverstanden. Es wird fixen übergeben als Stack variable. Okay, das bedeutet, wenn wir hier so eine Funktion wie diese Pixel zeichnen aufrufen, ja.
+
+Dann wird der Pixel der Überlegungen.
+
+Und wenn die Funktion beendet wird, wird diese lokale Pixel variable dann wieder gelöscht? Okay, es ist alles soweit klar Es ist jetzt nicht die effizienteste aller Möglichkeiten um damit zu arbeiten, weil wir halt praktisch. Eine lokale Kopie erzeugen von den Pixel den auslesen. Was machen diese tätig? Schmeißen weil ich das über das sie eingebunden wird.
+
+Und hier drüben haben wir natürlich.
+
+Ich schreibe mal hier oben drüber. Das ist der Pfad so wie es auf dem Stack praktisch ist. Ja Pixel selber also es gibt keine Pixel variable Ansicht ja, sondern dass wir machen ist die reservieren Speicher offen gibt und der genauso groß ist, dass die Daten von den Pixel reinpasst okay zeigt Ihnen.
+
+Das heißt wir machen jetzt auf?
+
+Klassik! Also ich frage jetzt hier eine Variable pixelpointer ja? Das heißt, es ist eine zeigervariable irgendwo in den Arbeitsspeicher und wir sagen die Informationen die darlegt. Die soll bitte als Pixel ausgewertet werden. Okay so? Jetzt brauchen wir noch den. Jetzt machen wir gleich die speicherreservierung mit ja? Wie gesagt, gute Praxis ist es direkt vorzugeben.
+
+Was es für den Zeiger Art ist und dann machen wir hier einfach. Malog? Hilfe brauchen wir. Salz auf? Kekse okay so würde jetzt das Aussehen. Das wäre praktisch. Der Befehl für das reservierend und Speicher von einem Pixel kaufen. Die? Okay maloch holt sich speichern wir sind jetzt Speicher auch wie wir müssen angeben wie viel Speicher wir haben wollen und zwar genauso viel das eine Struktur von Fünf Struktur Pixel da reinpasst Okay?
+
+Passt es erstmal soweit okay? Fürs Verständnis. Ja sie müssen da ein bisschen aufpassen. Hier vorne habe ich den Stern der macht Sinn, weil die Variable ist eine zeigervariable ja? Der Stern hier macht auch Sinn, damit ich weiß, dass ich sozusagen bin Zeiger der Typ lose Zeiger der hier generiert wird, dass ich sage, dass es ein Pixel Pointer ist, dass ich die Informationen, die da liege auch wirklich als Pixel ausgewertet haben möchte, wenn ich da drauf Verweise.
+
+Deshalb haben wir die Zahl der noch hingeschrieben werde ich notwendig. Das passiert hier automatisch, aber das gute touchs ist das zu machen. Hier hinten dran. Brauche ich ja noch eine Angabe wie viel Pixel so eine Struktur belegt und das hole ich mir mit dem size of okay? Ja kurze verständnisfrage an alle ja, aber es ist ein ganz beliebter Fehler sich aufpausch Studierenden die er noch nicht so fit sind in dem Thema.
+
+Warum mache ich ihn gar keinen Stern im? Und wenn ich einen Stern hin machen würde, was würde das bedeuten? Also alle mal kurz nachdenken. Ja ich weiß nicht. Ich weiß wir haben 12 aber alle war ganz kurz drüber nachdenken. Möchte ich mal kurz überlegen, was würde das bedeuten wenn ich hier Steine reinschreiben würde, sei es auf Pixel heute also Pixel und Sterne.
+
+Was würde das bedeuten? Alle war kurz nachdenken. Ich möchte, dass sie da alle möglichen also im Idealfall alle drauf kommen. Das, was ist der Unterschied? Der Unterschied ist massiv.
+
+Wir würden um den Pixel auf dem Hieb abzuspeichern, nicht ein Speicherplatz bei reservieren, der groß genug für den Pixel ist, sondern der groß genug für eine Adresse ist. Das heißt hier ist es ja so. Wenn ich?
+
+Hier so das hinschreibe, dann steht er hier in der seissorg-funktion Pixel poinder also der Datentyp eine zeiger-variable steht da drin und damit wird nur angeschaut. Wie viel Speicherplatz belegt ein Zeiger? Ja das sind wir halt bei vier Byte Und mit den vier Byte kommen wir natürlich für unseren fixen hier mit den drei strukturelementen nicht so weit.
+
+Okay? Das hätte das für uns jetzt bedeutet. Das bedeutet wir hätten hier erstmal eine Zeiger bekommen. Ja, auf mit Speicherplatz vier bald groß ist und der liegt irgendwo liegen wir bei, liebt die kriege ich mal davon aus, dass unsere guten Platz noch haben, ja? Ich Wandel diesen Zeiger um.
+
+Und verweist denn da drauf? Ja das blöde ist aber ich brauche aber zum abspeichern hier im Prinzip 12 Byte wahrscheinlich am Ende des Tages für die Struktur. Ja ich habe nur vier. Blöd ja das heißt wenn ich da jetzt was drin abspeicher überschreibe ich zwangsweise noch irgendwelche anderen beides die mir gar nicht gehört.
+
+Ja. Kann sein, dass es erstmal kein Problem macht. Ja wenn dann nichts wichtiges drin steht. Wenn da was wichtiges drinsteht, dann überschreibe ich das. Oder wenn danach jemand auf diese Variablen zugreift, die an der Stelle stehen, dann überschreiben die wiederum ein Pixel. Also das geht in alle Richtungen schief.
+
+Ja also deshalb aufpassen ohne Pixel brauchen hast du? Jetzt haben wir den Zeiger und jetzt können wir eigentlich noch mal damit arbeiten. Ja? Nachdem ich einen Freund da ist, haben wir gesagt wir brauchen Pfeil operator. Wenn Sie den Pfeil operator wieder anwenden, schlägt ihnen Eclipse oder wie stellst du hier?
+
+Was auch immer zu machen, auch gleich direkt die entsprechenden Sachen vor ja?
+
+Und? Was anderes haben? Bisschen auseinander halten. Welcher hitzen lassen? Sie können gerne auch eine andere Stelle setzen, ist quasi überlassen.
+
+So jetzt ist die Frage wie können wir zum Beispiel die zwei geschebenen Funktionen die wir jetzt verwendet haben nutzen? Ja? Ist auch kein Problem. Pixel? Ausgabe? Pixel träumen. Jetzt sehen wir schon. Da ist was unter regelt ja? Irgendwas passt noch nicht. Und ich gehe mal drauf. Das passt bei uns.
+
+Genau und dann sagt er hier der Datentyp passt hier nichts nicht erwarte ich eigentlich was anderes und es ist ja auch klar. Eigentlich werden ja jetzt die Daten erwartet die einen Pixel repräsentieren und kein pixelpointer. Ja also ich brauche eigentlich eine gerechte Daten von der Struktur Pixel Relativ leicht behelfen, weil wir kennen das Ich habe ja.
+
+Den die referenzierungsoperator den Stern ja mit dem Stern greife ich ja auf den Speicherort zu. Wo der Zeiger drauf zeigt? Okay? Das kann ich machen. Der pixelfreunde zeigt direkt auf den Hieb. Und mit den Sternen? Kann ich hier das Ding direkt auslesen? Okay habe ich direkt Zugriff auf gespeichert obwohl wir den Raum?
+
+Wenn ich die Funktion jetzt hier so Aufrufe. Wird sozusagen dieser Speicherplatz genommen, also genau diese speicherinhalt der wandert zur Funktion. Die Funktion selber erzeugt sich ja eine lokale pixelvariable P, die genau mit diesem Inhalt dann befüllt wird auf den der Zeiger drauf zeigt ja. Und damit haben wir ja alles was wir wollen.
+
+Da können wir das Ding intern verwenden und funktioniert super. Okay? Am bestens!
+
+Und? Wir sehen! Das auch gleich ein bisschen Quatsch passiert ist, da muss ich mir dann auch immer drauf aufpassen. Wir hatten ein Pixel Pointer ausgegeben. Ja das hat also super funktioniert aber Vielleicht nicht genau da wo man es jetzt auf dem ersten Blick erwarten würde. Warum ist es passiert?
+
+Mit den aski-code Befehlen die wir machen, ja? Ähm verschieben wir beispielsweise den Cursor ja? Das ist nämlich. Zeigst du ihn noch mal? Der Teil hier vorne dran. Das ist der Teil, der den Cursor verschiebt. Bis zum Haar der drei verschiedene Cursor. Ja und danach wird halt das normale Zeichen ausgegeben.
+
+Okay? Und in unserem Fall bedeutet es ja ich habe den Cursor irgendwie Stelle hingesetzt, paar ein Zeichen ausgegeben und dann ist der Cursor halt einfach eine Stelle danach und nicht so wie wir es kennen eigentlich meistens immer am zweien anfangen. Okay da muss man halt mitnehmen, ja? Kein was man machen kann.
+
+Wir könnten theoretisch auch hier bei den Pixel zeichnen mit dem backflash enden mitmachen oder zumindest klar, dass die nächste Ausgabe wieder am Anfang ist. Aber trotzdem das jetzt ja so wenn der Cursor zum Beispiel. Also wenn es per Pixel und 10 ausgegeben wird und macht dann Zweifel hoch und habe ich zwar das den Pixel gebe ich hier noch aus, danach kommt der Zeilenumbruch und dann bin ich in der nächsten Zeile bei der unten Alarm haben.
+
+Ok, dann bin ich zwar zumindest am Rand, aber so ganz cool. Ist es jetzt auch noch nicht? Ja Dennis, ja jetzt hat man praktisch hier den Pixel es hingesprungen hat den Pixel ausgegeben, zahlen und hoch gemacht. Jetzt ist mir hier vorne okay und jetzt ist ein bisschen eine Philosophie Frage Wie man mit dem Thema umgeht hängt auch ein bisschen vom Programm ab.
+
+Ja wenn man sich halt überlegen muss. Ich zeichne irgendwo und setze ich dann den Cursor zum Beispiel automatisch wieder eine feste ausgangsposition zurück? Ja, oder lasse ich den Cursor einfach da stehen wo er ist? Ja oder kümmert sich jeder ausgabefunktion selber darum wo man sozusagen einen Cursor hin platziert?
+
+Das muss man sich halt dann selber überlegen.
+
+Ja jetzt können wir eigentlich jeden Quatsch damit machen mit dieser Ausgabe.
+
+Also wir könnten jetzt zum Beispiel auch problemlos. Aber welche Nadel point eigentlich? Theoretisch könnten wir jetzt natürlich auch so ein Pixel hernehmen. Eine Eingabe von der Konsole machen, einen Pixel um 1 bewegen und den zum Beispiel wieder ausgeben. Ja? Eine Bewegung nach rechts würde einfach nur bedeuten. Ich erhöhe die ex-koordinator um 1 und dann gebe ich den Pixel halt wieder aus.
+
+Okay also das heißt da könnten jetzt relativ einfach Bezeichnen und damit arbeiten. Wie Logik jetzt wie man jetzt irgendwie cooles Spiel oder sonst was draus machen würdest. Wirklich dann einfach noch mal eine Vorlesung oder so zusammen machen und mit allem. Hier wollen wir uns jetzt erstmal nur so auf die.
+
+Ja auch die Syntax und so weiter beschränken wie man das ganze verwenden kann. So?
+
+Strukturen sind eigentlich nur ein selbsterzeugter Datentyp und ich kannte den alles machen und noch alle anderen Varianten verwenden die ich so. Mit anderen datentypen aufmachen kann. Ja das heißt was ich zum Beispiel auch machen kann ist ich kann auch sowas machen.
+
+Also auch sowas wäre möglich. Ja, also genauso wie ich im Internet für Array machen kann, könnte ich jetzt auch in unserem Datenblatt einfach halt zum Beispiel eine Linie machen. Ja die dann einfach aus dem Pixel Array besteht. Das wäre jetzt auch überhaupt kein Problem und wie es zu füllen.
+
+Okay?
+
+Alles mal einverstanden.
+
+Knapp befüllen wir das doch einfach mal ganz kurz, ja? Wie würde man das machen? Ich mache einfach hier eine vorschleife in die = 0 E320? Die plus+?
+
+Jetzt hat mit einer festen Anzahl.
+
+Genau ich würde jetzt vielleicht nur noch mal ganz kurz, ich mache bei mir jetzt nur die anderen sind Ausgaben dann schnell raus. Ja da oben dass ich jetzt wirklich nur gleich das aus oder wir machen es nicht Linie wir machen das jetzt anders so fährt das schöne. Jetzt habe ich auch noch mal als praktikumsaufgabe gemacht, wenn das jetzt mal
+
+Lange vor, aber ich gehe mal hin machen wir mal 50 Pixel erstmal hart von mir rein Mit 50 50 Pixeln jeder Pixel, sondern ein ein Sterne repräsentieren Okay? Und ja jetzt würde ich sagen das füllen wir doch einfach mal diese Pixel bisschen legen ja ähnlich wie man das für den hühnern gemacht hat ja?
+
+Und jetzt habe ich hier praktisch einfach Sternenhimmel.
+
+Und da setze ich jetzt zum Beispiel die x-koordinate. Und jetzt machen wir das doch einfach mal so, wie man das im Prinzip beim. Bei minenfeld auch gemacht haben. Ja das heißt ich nehme mal meine randfunktion her. Also SPD wird mit dieser angebunden haben. Und? Zum Beispiel begrenzen des mal auf.
+
+Breite 30 vielleicht ja? Und machen wir noch einen kleinen offset drauf mit zwei damit man nicht komplett am Rand sind. Ja? Dann machen wir es einfach mal so für die x-koordinate. Okay?
+
+Dann machen wir das gleiche. Können wir copy pace machen? Für die y-koordinate.
+
+Da würde ich jetzt hier aber von der Höhe her weil man nicht ganz quadratisch denn ein bisschen kleiner machen. Vielleicht haben wir 15 oder 10 oder so okay? Ja verstehen Sie das? Ich möchte jetzt praktisch im Prinzip zwischen 2 und. Äh 16 haben wir hier oder unten von der Höhe reingehen ja und zwischen zwei und 31 von der ex-koordinate, zumal das jetzt gerade da stehen.
+
+Und ja dann! Setzen wir noch unser Symbol ja? An der Stelle. Das heißt ich greifen die Spitzen in den Ariane an den dxi raus und schreibt dann noch ein bisschen.
+
+Okay? Und damit haben wir schon ganz problemlos. 50 Pixel, also 50 Sterne erzeugt. Okay, jetzt wollen wir den Sternenhimmel noch ausgeben. Ich mache das jetzt. Wer jetzt nicht notwendig macht sich aber trotzdem extra nochmal eine eigenen vorgehalten, okay? Das heißt hier mal wieder vor irgendwie gleich null Die Grundlage 50?
+
+Die plus! Und die Ausgabe geht der super einfach weil Ich werde jetzt einfach im Prinzip her gehe. Pixel? Ausgabe? Und was packe ich da rein? Frag einfach die einzelnen Sterne rein, ne was Sternenhimmel An der Stelle gibt. Und ich laufe jetzt hier einfach das every komplett durch und kann alle Sterne ausgeben.
+
+Okay, die Sterne sind an irgendwelchen Positionen jetzt ja und ich bin jetzt überhaupt nicht mehr abhängig davon praktisch irgendwie über den Cursor wie es Gesetze, sondern ich springe einfach an die Stelle zeichnet den Sternen springen an die Stelle ich zeichnen den Stern kann es jetzt in der beliebigen Reihenfolge einfach hier mein sternbild klopfen?
+
+Okay? Passt auf zu weinen ja. Gut dann!
+
+Ausgabe sondern zeichnen.
+
+Das Zeichnen oder Zeichen?
+
+Genau was haben wir noch? Ja das ist ja schon Wert. Reinsetzen das wäre auch ganz praktisch. Dann sieht der Stern noch vor Ort zu den Stern.
+
+Sternbild ordentlich sternfeld bestandgeld S-Bahn 0 das heißt theoretisch hört jetzt zwar immer über den für die einsprung Stelle am Sieg vorgegeben was wir da jetzt können für ein sternbild rauskriegen okay und ich denke so die Grundidee ist schon mal ganz witzig. Wo man ein bisschen aufpassen muss ist natürlich jetzt noch.
+
+Dieser Text hier immer wenn das Programm aufhört, zum Beispiel der wird er immer da ausgegeben oder Cursor als letztes war okay und das heißt der letzte Stern war halt wahrscheinlich hier in der Ebene und deshalb war auch der Cursor hier und dann springt wieder entsprechend da an die stellen insgesamt.
+
+Denn wenn sie nicht möchten, dass der Programm ist dieser Ausgabe dann da ist, dann müssten wir hier selber per Hand in Förster noch an hilfestelle setzen.
+
+Ja mit Pech hat mir jetzt auch nur Sterne rausbekommen können oder? Mit Pech hätten wir jetzt auch nur Sterne herausbekommen können. Wenn die randfunktionen jede einzelne unserer Zellen getroffen hätte. Also nun einzelnen Stern meinte nein nur Sterne. Sternen und nicht Sternen einzelnen Hat er hier nur 50 kleine drin, also haben wir es jetzt auf 50 begrenzt zufallsvariable für die Anzahl der sternenkoffer Da haben aber ein kleines Problem, weil dann weiß ich im Vorfeld noch nicht wie viel Arbeitsspeicher ich benötige, weil ich ja nicht weiß wie viele Sterne ich dann generiere.
+
+Okay? Ja das wäre wiederum nicht bekannt. Könnten wir das Problem lösen?
+
+Dynamisch allokieren warum nicht? Dass jeweils race. Aber das liegt auf dem openstack.
+
+Schön auch niemanden kombinieren. Das ist überhaupt kein Problem.
+
+Schlange auf den Link der nächstes mal hier den Abschnitt.
+
+So Problem was wir haben hier. Ich kann keine feste Zahl reinschreiben, weil ich mich vor allem für die Sterne, das werden am Ende des Tages okay Ähm das heißt ich sollte? Ich mache es jetzt, müsst nicht ganz so ausführlich machen. Ich brauche irgendwie eine Anzahl. Und? Sterne und weiß nicht wie viele Sterne wo noch maximal machen.
+
+Maximal 100 Sterne. Ich mache plus eins oder? Einen Stern hätte ich gerne auf jeden Fall ja so. Was brauchen wir jetzt? Ich brauche irgendwie. Der zeigervariable, die mir sozusagen In den Speicher zeigt bin ich jetzt gleich reserviere. Okay das heißt ich mache jetzt hier mal. Ähm sind gleich was ich vorhabe.
+
+Einen Pixel Pointer?
+
+Wenn es jetzt mal Galaxie ja? Und?
+
+So und dann machen wir eine mallor. Und da wird noch machen.
+
+Und? Praktisch! Sei es. Pixel?
+
+Wir haben jetzt praktisch für den Pixel ist für einen Pixel des reserviert. Das reicht uns jetzt nicht weil wie viele Pixel möchte ich haben. Ich möchte ja Anzahl viele Pixel haben. Also muss ich mir für Anzahl mal die größe die ein Pixel braucht. Auch die Interesse wird einverstanden. Ja so machen wir einfach total.
+
+Ist kein großes Ding ja? Die vorschleife? Die würde ich einfach minimal anpassen. Die läuft da letztlich bis 50 sondern die geht diese Anzahl okay ja Und? Hier! Habe ich jetzt nicht den? Den?
+
+Einfach hier den Den Pixel Pointer okay hier muss man jetzt minimal aufpassen. Okay? Ich zeige dir die zwei äquivalente wie es gehen würde ja Ich will jetzt zur eigentlich auf jetzt sagen wir mal ein bisschen im allerersten schleifendurchlauf Pixel wir sind bei Index 0 okay? Ich will jetzt ja eigentlich auf den.
+
+Sondern auch erste Element dazu greifen. Ja, das erste Element ist an der gleichen. Gespeicher Adresse ja wie? Wie hier oben, also von dem ganzen Block. Das erste Bike ist ja auch gleichzeitig das erste Ball vom ersten Stern. Okay so? Das heißt ich könnte natürlich auch schreiben. Galaxie Feinoperator x um genau zu sein wer es eigentlich weil es dieser zeigerarithmetik ja Zeige Arithmetik Eigentlich ist es Galaxie plus i.
+
+In Klammern dahin ja? So und dann mache ich dann hier halt zum Beispiel. Der ist jetzt mit dem Text hier so.
+
+Die zwei Zeilen sind am Ende des Tages beide äquivalen okay? Warum? Galaxie? Selber? Ist gespeicheradresse vom ersten Preis von dem blockbit reserviert habe ja Dann kommt ein zeigerarithmetik die 0 drauf. Das heißt ich bleibe an der Stelle okay. Wenn jetzt nachher der nächste Schleife für Durchlauf kommen würde, dann hätte das ihr den Wert 1.
+
+Ja dann hätte ich hier vorne da stehen Galaxie +1 das bedeutet ich bin an der ersten Stelle und dem speicherblock ja macht dann zwei gearbeitet 1. Das heißt ich gehe genau mit Platz weiter den ein Pixel braucht. Ja bin dann beim nächsten und verhindert dann von dem der strukturelement.
+
+Einverstanden ja. Wenn ich das so mache? Zeiger plus eine Zahl ist zeigeararithmetik. Bleibt, dass wir uns wieder ein Zeiger des gleichen Datenschutz okay deshalb Einverstanden? Okay?
+
+Wenn ich den Zeiger habe und ich mache hier die eckigen Klammern i dann ist es. Auch wieder? Im Prinzip zeige Arithmetik erstmal ja ausgangsadresse ja? Plus i-elemente weitergehen ja und die eckigen Klammern machen automatisch eine d-referenzierung von der Stelle, dass ich auf den Speicher an der Stelle zugreifen kann.
+
+Okay? Und deshalb kann ich hier mit dem Punkt arbeiten? Hast du mal? Also da muss ein bisschen aufpassen, ist ein bisschen tricky.
+
+Für weitere Schreibweise für das was auch Äquivalent wäre.
+
+Wäre das?
+
+Also auch das wäre echt Überland
+
+Also das heißt ich könnte auch. Ich habe hier einen Zeiger kann die Stelle die referenzieren ja? Und können jetzt da auch drauf zugreifen. Okay? Das ist gleich im Endeffekt wie ich zu Galaxie springung i-elemente weiter dann bin ich im Speicher gewandert und dann hole ich mir das Ding raus mit den Sternen und dann kann ich hier hinten auch hinten schreiben.
+
+Also die drei Zeilen sind eigentlich eng wie valent ja? 1 und 2 ist ja eigentlich das Mittel der Wahl. Okay, die oberste oder wieder unten aus wiederholen oder was sie da verwenden, ist gegenüberlassen Okay?
+
+Ich persönlich würde die. Die Varianten die hier unten normalerweise über. Laufen lassen, damit wir hier analog Y. Setzen?
+
+Und?
+
+Äquivalent und hier dann einfach mal das Ziel noch setzen, okay?
+
+Genau danach wird man es einfach auflegen.
+
+Man ist auch in Ordnung. Also wie gesagt hier unten wie gesagt wird eckige Klammern wenn Sie die eckigen Klammern nehmen auf den zeigerarray dann haben wir gleich die g-referenzierung mit dabei okay? Und die Funktion Pixel zeichnen die erwartet ja auch direkt das Pixel. Also kein Zeiger drauf. Ja die Frage Pixel zeichne ich auch noch gleich Anzahl
+
+Das hier oben. Das werde ich jetzt mal raus kommentieren. Das heißt, wir haben jetzt wirklich nur? Diese dynamisch generierten Sterne drauf.
+
+Gerne mal noch verschiedene. Einsprungstellen verwenden. Je nachdem was mit wiedereinsprungstelle haben, ändert sich ja dann auch unser sternbild, wenn man andere Situation bekommen.
+
+Genau und was man vielleicht noch?
+
+Machen können? Ist das mal damit uns hier den Text nicht so zur Haut?
+
+Dass man bevor das Programm beendet ist. Hier vielleicht noch mal hart. Kodiert An die Stelle. 20 Null springen
+
+Also ist jetzt genau diese dieser formatierte Text eigentlich von oben, nur dass ich Hartmut 24 reinschreibe für die y-koordinate und 0 für die x Koordinate.
+
+Ja das mache ich jetzt einfach nur. Damit nachher dieses mit den der gradangabe schauen wir, dass es hier unten landete, nicht mein wunderschönes sternbild kaputt macht.
+
+Würden wir jetzt bei jeder Ausführung einen neuen? Sternenhimmel erwarten! Weil wir die einschulungsstelle gesetzt haben. Okay, wie gesagt Vielleicht noch ganz kurz zu Erklärung noch mal für die zufallszahlen ja? Das Spielkarten hat keiner zufällig dabei, oder? Spielkarten einfache Kartenspielen keine Ahnung okay so wir kennen aber jeder kennt zumindest ein Kartenspiel.
+
+Ja okay, so stellen sich etwas vor pokerkarten schafkopfkarten wasserbrille okay so ich bin jetzt der Geber ich schnappe mir den Stapel ja Schaffe ein bisschen durch, dann habe ich ja sozusagen. Eine eigene Reihenfolge dieser Karten wenn ich immer von oben ziehen würde alle einverstanden. Okay so Das passiert automatisch.
+
+Das ist einfach in der Funktion drin in dem zufallszahlengenerator wenn ich jetzt. Die Funktion Rand Aufrufe ja nehme ich die oberste Karte von dem Deck schauline an. Herz König Ja, gibt die zurück und legt diese Karte wieder unten an den Stapel. Die randfunktion wieder aufgerufen, ja? Gehe ich hoch nehmen die oberste Karte herzdame legt sie unten wieder auf den Stapel okay?
+
+Kranfunktionen wieder aufgerufen die Gas. Nehmen Sie die nächste unten auf dem Stapel irgendwann wenn ich das gemacht habe, je nachdem was es für ein kartendeckel ist, komme ich früher oder später doch wieder zu der Karte, die ich als allererste gezogen habe. Okay, sie merken schon was raus läuft. Die Reihenfolge ist dann immer die gleiche.
+
+Okay, sie ist einfach in den zufallszahlen die Generator hinterlegt. Das ist praktisch so wie ich am Anfang gemischt habe, die ist drin, okay? Mit dem s-rand ja gehe ich einfach nur zu einer bestimmten Karte, nämlich zum Beispiel für pitas. Das heißt ich hätte vorher geschafft. Hätte alles drin. Ja, habe mir die erste Karte angeschaut, ist nicht die Pikachu den ich weg nächstes nicht die ist wieder nicht für immer wie ich bei der picass und das ist das wo ich sage.
+
+Okay, jetzt fange ich an, ist die Karte, die lege ich unten drunter. Und wenn jetzt einer die rahmenfunktion aufruft, dann kriegt er als erstes die Karte die direkt nach der Picasso man Dreck drin ist, was ich gerade gemischt habe. Okay ja das heißt. Die einsprungsstelle am Anfang sieht die vor was danach für Karten kommt wenn ich beim Herz König bin nach dem Herz König kommt halt irgendwas anderes okay ja Das ist soweit vom Verständnis passt also das heißt?
+
+Einfach die Formel die dahinter legt ist und die zufallszahlen zu generieren. Und mit dem SRAM springe ich praktisch an die einsprungsstelle hin, dass ich dann oben diese Karte habe, die als die dann das s-land festgelegt hat. Die lege ich unten hin und dann kommt die nächste mit rein. Okay, deshalb ist es so.
+
+Wenn ich hier einen festen Wert eingebe, dann bin ich ja immer sozusagen an der gleichen Stelle in meinem gemischten Deck und dann kommt auch danach immer die gleiche Karte immer wieder okay zurück zum Thema Zufall. Ja, es ist es ein bisschen unkund. Was man machen kann ist wenn es ein Frühchen möchte.
+
+Ja dann ist halt eine einfache Möglichkeit.
+
+Hier zu sagen, ich nehme dich einen festen zahnwert sondern schaltet zum Beispiel reinen Knall Bekommen später noch mal genau dazu. Für das Teilen ist ist eine Funktion aus der aus der spd-lip, mit der ich die Möglichkeit habe, die systemzeit auszulesen. Okay Und die kann theoretisch dieses systemzeit auch noch in einer eigenen datenstruktur auch wieder abspeichern.
+
+Okay, hier übergehe ich knallpointer damit, weil ich sage ja Funktion einfach drumspeichert es nicht ab. Sag mir einfach was ist die aktuelle systemzeit in Millisekunden und der will ich gar nicht wissen, okay? Das heißt das dreimal gibt mir irgendeine Zahl zurück in Millisekunden und zwar die Millisekunden die Zeiten ersten 1970 vergangen sind, so das bedeutet.
+
+Wenn ich mein Programm startet wird die Zeit der Vorhang geschritten sein und ich kriegen anderen startwert okay und selbst wenn sich der startwert nur minimal ändert ja bedeutet es, dass ich trotzdem an der ganz anderen Stelle bin, wenn ich jetzt als Vergleich nehme. Das kartendeck was eben gesagt habe.
+
+Ja ich habe ihnen gesagt ja wenn sie sich das Poker Deck kaufen, ja dann ist natürlich wahrscheinlich die Dame und der Herz König Herz Dame direkt nebeneinander. Okay. Wenn ich aber geschaffen habe, dann können die ja ganz weit und Weg auseinander liegen. Okay, das heißt nur weil sich der Wert um 1 ändert sozusagen weil es die nächst höhere Karte ist oder so oder nächst höhere zahlenwert bedeutet es nicht, dass das auch relativ benachbarte Zahlen in den kartendeck sind, weil ich habe ja durchgemischt können komplett woanders liegen.
+
+Ja jetzt tun wirst die eine ganz oben. Die andere ist ganz unten oder in der Mitte oder sonst wo? Ja das wissen wir nicht. Okay. Das bedeutet wenn ich hier dieses System sehr weit nehme als Anspruch Stelle sozusagen ja und ist ja das die oberste Karte und dann komme ich immer komplett andere zufallszahlen ja den einzigen Nachteil den ich dadurch habe.
+
+Wäre folgender? Wenn ich jetzt das Programm tatsächlich? Innerhalb einer millisekunde zweimal startet und das systemzeit hat sich nicht verändert. Dann zieht diese zwei Programme die gleichen zufallszahlen, okay, weil er zum gleichen Zeitpunkt gestartet wurde. Beide haben das gleiche kartendeck gleich gemischt. Beide nehmen die gleiche Karte oben und dann ist natürlich immer die Zahl immer gleich.
+
+Okay, deshalb auch generell, wenn Sie das s-rand Verwenden. Nur einmal am besten ganz am Anfang von ihrem Programm. Versetzen sie einmal die Zahlen ist dieser einsprungsstelle und danach vertrauen Sie jetzt einfach mal im zufallszahlen Generator, dass der genug, dass das kartendeck. Was der ihnen gemischt hat, dass ihr so groß, da kommen sie normalerweise nicht komplett durch.
+
+Okay, ja, das wäre vor 50 Jahren Problems gewesen. Die ersten zufallszahlen Generatoren, die hatten nur so 30.000 Karten in ihrem kartendeck. Der wiederholt sich das recht schnell. Das ist reicht für eine wettersimulation nicht unbedingt aus. Ja, aber wenn Sie das jetzt machen, da gibt es super. 2. Da waren wir haben theoretisch.
+
+Also irgendwas zwei hoch 100 verschiedene permutationen. Das kriegen sie nicht durch, deswegen sie auch mit irgend so ein. Wenn wir hier Rechner nicht durch ja egal wie viel Geld Sie daran schließen können Chips ja genau okay deshalb machen wir das einmal am Anfang und wenn wir das jetzt laufen lassen sollten wir immer sie sehen es gibt immer ein anderes Bild ja?
+
+Mal mehr mal weniger Sterne. Man sieht eigentlich ganz witzig aus. Ja genau, also damit würde ich jetzt für heute immer dabei belassen. Ich hoffe es hat Ihnen schon mal ein bisschen so geholt mit dem Umgang mit den Sachen ja? Wenn was nicht funktioniert versuchen Sie es wirklich nachzuvollziehen. Also das Problem ist halt immer auch mal das mit dem referenzieren nicht und vor allem operator und so weiter.
+
+Ja also wichtig ist einfach, dass man das müssen Sie einfach verstehen. Ja einfache Beispiele machen findet, Ausgaben machen. Da müssen Sie sicher sein, dass das praktisches kern-feature für CC fluxkurs und also wenn es scheitert, dass sie dann guter CNC fußkurs Entwickler entwicklerin werden, dann ist es war zuerst nach auseinanderhalten können.
+
+Ja es gibt es öfters mal. Also das ist einfach das elementare des unterscheidet sie dann von den Leuten die halt nicht leiten oder Java angefangen haben. Können? Ich weiß es hart aber da muss man sich drauf. Das Verständnis muss man halt dann auch entwickeln einfach Dann? Wir sehen uns morgen.
+
+Ich mache dann morgen auch einfach 9:50 Uhr dann Praktikum, wo man dann auch einfach noch ein paar einfache Beispiele durchgehen, ja? Vielleicht sowas ähnliches wie das vielleicht noch mal Strukturen in Strukturen oder eine Liste machen okay?
